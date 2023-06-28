@@ -1,0 +1,6 @@
+requests
+fastapi
+plotly
+uvicorn
+jinja2
+pandas
